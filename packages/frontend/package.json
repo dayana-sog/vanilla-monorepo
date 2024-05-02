@@ -1,6 +1,6 @@
 {
     "name": "@vanilla-pdmfc/components",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "main": "dist/index.umd.js",
     "module": "dist/index.es.js",
     "types": "dist/index.d.ts",
@@ -18,7 +18,7 @@
         "format": "prettier --write src/"
     },
     "bin": {
-        "safelist": "./bin/safelist.ts"
+        "safelist": "./bin/safelist.js"
     },
     "dependencies": {
         "vite-plugin-dts": "^3.9.0",
