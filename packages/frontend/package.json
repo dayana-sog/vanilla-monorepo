@@ -11,6 +11,7 @@
         "start": "vite",
         "dev": "vite build",
         "build": "vite build",
+        "safelist": "./bin/safelist.ts",
         "build-vite": "run-p type-check \"build-only {@}\" --",
         "preview": "vite preview",
         "type-check": "vue-tsc --build --force",
