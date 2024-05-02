@@ -1,9 +1,11 @@
 #!/usr/bin/env node
+/* eslint-disable no-undef */
+// eslint-disable-next-line no-undef
 const fs = require('fs')
 const path = require('path')
 
-const safelistFilePath = './path/to/your/safelist/file.js' // Caminho para o arquivo da safelist
-const userTailwindConfigPath = path.join(process.cwd(), 'tailwind.config.js') // Caminho para o arquivo tailwind.config.js do projeto do usuário
+const safelistFilePath = './safelist-definition.js'
+const userTailwindConfigPath = path.join(process.cwd(), 'tailwind.config.js')
 
 try {
     // Lendo o conteúdo do arquivo da safelist
