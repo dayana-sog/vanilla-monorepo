@@ -4,7 +4,7 @@
 const fs = require('fs')
 const path = require('path')
 
-const safelistFilePath = './safelist-definition.js'
+const safelistFilePath = '../safelist-definition.js'
 const userTailwindConfigPath = path.join(process.cwd(), 'tailwind.config.js')
 
 try {
