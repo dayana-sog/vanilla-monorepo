@@ -1,5 +1,47 @@
 # @vanilla-pdmfc/components
 
+## 1.0.11
+
+### Patch Changes
+
+- safelist find tailwind
+
+## 1.0.10
+
+### Patch Changes
+
+- new safelist scrip
+
+## 1.0.9
+
+### Patch Changes
+
+- safelist
+
+## 1.0.8
+
+### Patch Changes
+
+- Fixed safelist script
+
+## 1.0.7
+
+### Patch Changes
+
+- New test script tailwind
+
+## 1.0.6
+
+### Patch Changes
+
+- Fixing script
+
+## 1.0.5
+
+### Patch Changes
+
+- Fix script
+
 ## 1.0.4
 
 ### Patch Changes
