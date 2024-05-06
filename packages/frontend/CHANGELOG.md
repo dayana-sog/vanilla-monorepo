@@ -1,5 +1,11 @@
 # @vanilla-pdmfc/components
 
+## 1.0.12
+
+### Patch Changes
+
+- Edited the readme
+
 ## 1.0.11
 
 ### Patch Changes
