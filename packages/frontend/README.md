@@ -4,7 +4,7 @@
 	<a href="https://imgbox.com/KbvFfNaE" target="_blank"><img src="https://thumbs2.imgbox.com/85/89/KbvFfNaE_t.png" alt="image host"/></a>
 </div>
 
-Vanilla Grid is a flexible and customizable grid system for Vue.js applications. It provides a rich set of UI components to help you create responsive layouts easily. This README provides essential information to get started with Vanilla Grid.
+Vanilla Grid is a flexible and customizable grid system for Vue.js applications. It provides a rich set of UI components to help you create responsive layouts easily.
 
 ## Download
 
@@ -21,8 +21,15 @@ yarn add @vanilla-pdmfc/components
 
 # Using pnpm
 pnpm add @vanilla-pdmfc/components
+```
+
+### After installing the component, make sure you have Tailwind CSS and configurations added to your project. Then run the following command:
 
 ```
+npx safelist
+```
+
+This command will add a necessary safe list to your tailwind.config
 
 ## Documentation
 
