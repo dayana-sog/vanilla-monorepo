@@ -1,4 +1,2 @@
-import Grid from "./grid/Grid.vue";
-import Item from "./item/Item.vue";
-
-export { Grid, Item };
+export { default as Box } from './Box/BoxComponent.vue'
+export { default as Item } from './Item/ItemComponent.vue'

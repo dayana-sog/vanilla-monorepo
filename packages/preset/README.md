@@ -26,7 +26,7 @@ pnpm add @vanilla-pdmfc/preset
 
 ## Usage
 
-Unstyled mode is disabled by default for all components. Using the PrimeVue plugin during installation, set `unstyled` as true to enable it globally. Visit the [Unstyled mode](https://primevue.org/unstyled) documentation for more information and examples.
+Unstyled mode is disabled by default for all components. Using the PrimeVue plugin during installation, set `unstyled` as true to enable it globally. Visit the [Unstyled mode](https://tailwind.primevue.org/vite/) documentation for more information and examples.
 
 ```js
 import { createApp } from 'vue';

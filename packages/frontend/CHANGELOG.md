@@ -1,5 +1,59 @@
 # @vanilla-pdmfc/components
 
+## 1.2.3
+
+### Patch Changes
+
+- Add new classes to Item component
+
+## 1.2.2
+
+### Patch Changes
+
+- Remove duplicate list
+
+## 1.2.1
+
+### Patch Changes
+
+- Remove peer vue dependency
+
+## 1.2.0
+
+### Minor Changes
+
+- Added type to Box and Item component
+
+## 1.1.2
+
+### Patch Changes
+
+- New test
+
+## 1.1.1
+
+### Patch Changes
+
+- test type
+
+## 1.1.0
+
+### Minor Changes
+
+- Changed the types infos
+
+## 1.0.15
+
+### Patch Changes
+
+- Fixing components types
+
+## 1.0.13
+
+### Patch Changes
+
+- Added type to Grid and Item component
+
 ## 1.0.13
 
 ### Patch Changes

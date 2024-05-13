@@ -7,7 +7,7 @@ const path = require('path')
 
 try {
     // Caminho para o arquivo da safelist dentro do seu próprio projeto
-    const safelistFilePath = path.resolve(__dirname, '../src/safelist-definition.js')
+    const safelistFilePath = path.resolve(__dirname, '../src/safelist-definition.ts')
 
     // Lendo o conteúdo do arquivo da safelist
     const safelist = fs.readFileSync(safelistFilePath, 'utf-8')
